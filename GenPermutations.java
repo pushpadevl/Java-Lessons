@@ -1,3 +1,5 @@
+# Heap permutation to generate all permutations of an array
+
 import java.util.*;
 import java.util.stream.*;
 public class GenPermutations {
